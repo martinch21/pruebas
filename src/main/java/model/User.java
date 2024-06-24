@@ -139,5 +139,6 @@ public class User {
             roleNames.append(role.getName());
         }
         return roleNames.toString();
+    //prueba/
     }
 }
