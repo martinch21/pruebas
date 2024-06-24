@@ -108,4 +108,5 @@ public class LoginDialog extends JDialog {
     public String getUsername() {
         return username;
     }
+    //prueba//
 }
