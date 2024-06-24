@@ -63,10 +63,6 @@ Para contribuir al proyecto, por favor revisa el archivo `CONTRIBUTING.md` para 
 
 - **Martin Leon** - *Desarrollador principal* - [martinch21](https://github.com/martinch21)
 
-## Licencia
-
-Este proyecto está bajo la Licencia MIT - ve el archivo `LICENSE.md` para más detalles.
-
 ## Agradecimientos
 
 - Agradecimientos a todos los colaboradores y testers que ayudaron a mejorar la calidad del proyecto.
