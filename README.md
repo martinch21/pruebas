@@ -55,10 +55,6 @@ Después de iniciar la aplicación, podrás:
 - **Agregar, modificar y eliminar tareas** a través de la interfaz de usuario.
 - **Administrar usuarios** si tienes privilegios de administrador.
 
-## Contribuir
-
-Para contribuir al proyecto, por favor revisa el archivo `CONTRIBUTING.md` para detalles sobre el proceso para enviar pull requests y el código de conducta.
-
 ## Autores
 
 - **Martin Leon** - *Desarrollador principal* - [martinch21](https://github.com/martinch21)
